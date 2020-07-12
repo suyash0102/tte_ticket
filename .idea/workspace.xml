@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e6d304-6057-46f9-b57c-20ccd03c711c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eY0BK2qrMg9oF6v6nZBQeuzR6d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="E:/Flutter/flutter-ui-nice-master" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e6d304-6057-46f9-b57c-20ccd03c711c" name="Default Changelist" comment="" />
+      <created>1594483081257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594483081257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="87" key="#main.dart" timestamp="1594534641689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="87" key="#main.dart/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594534641689" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1594533751676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594533751676" />
+    <state width="661" height="157" key="GridCell.Tab.0.bottom" timestamp="1594557971484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594557971484" />
+    <state width="661" height="157" key="GridCell.Tab.0.center" timestamp="1594557971483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="157" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594557971483" />
+    <state width="661" height="157" key="GridCell.Tab.0.left" timestamp="1594557971483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="157" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594557971483" />
+    <state width="661" height="157" key="GridCell.Tab.0.right" timestamp="1594557971484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="157" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594557971484" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594526455844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1594526455844" />
+  </component>
+</project>
